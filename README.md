@@ -13,4 +13,4 @@ Files Discription:
 2) db_dump.sql is the file which contains the dataset.
 
 The Dashboard can be seen as below:
-![alt text]()
+![alt text](https://github.com/valaybhatt/SalesInsights/blob/main/SalesInsight.png)
