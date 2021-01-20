@@ -1,5 +1,5 @@
 # SalesInsights
-This is a sales insights analysis carried out using Tableau.
+This is a sales insights analysis carried out using Tableau and MySQL.
 
 # Task Carried out:
 1) Total Revenue and its breakdowns by different cities in India.
