@@ -10,7 +10,7 @@ The Task of the projects can be listed out as below:
 
 Files Discription:
 1) SalesInsight.twb is the tableau workbook which contains all the sheets and the dashboard.
-2) . is the file which contains the dataset.
+2) db_dump.sql is the file which contains the dataset.
 
 The Dashboard can be seen as below:
 ![alt text]()
